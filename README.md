@@ -6,7 +6,7 @@
 - 💬 Talk to me about Super Heros, Marvel / DC, anything!
 - 📫 How to reach me:
 
-    | [Linkedin](https://www.linkedin.com/in/spk2naveen/) | [Twitter](https://twitter.com/spk2naveen) | [Portfolio]([https://naveen-kumar.netlify.app](https://naveenkumar.vercel.app)) |
+    | [Linkedin](https://www.linkedin.com/in/spk2naveen/) | [Twitter](https://twitter.com/spk2naveen) | [Portfolio](https://naveenkumar.vercel.app) |
     | -- | -- | -- |
 
 ---
