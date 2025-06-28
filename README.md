@@ -2,7 +2,7 @@
 
 ## I wear multiple hats, Software Engineer, QA, DevOps Engineer, Cloud Architect!
 
-- 🌱 I’m currently learning to build microservices, using [Tye](https://github.com/dotnet/tye) & [Dapr](https://dapr.io/)
+- 🌱 I’m currently learning to build microservices, using [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/) & [Dapr](https://dapr.io/)
 - 💬 Talk to me about Super Heros, Marvel / DC, anything!
 - 📫 How to reach me:
 
